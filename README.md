@@ -27,7 +27,13 @@
 - Fecth data for trailer video
 - Update store with trailer video data
 - Embedded the youTube Video for trailer
-
+- Build Secondary component
+- Build movie List
+- Build movie card
+- TMDM IMG CDN URL
+- Made browse page look amazing using tailwind css
+- Added Left/Right button to scroll left/right in movie list
+- usePopularMovies, useTopRatedMovies, useUpcomingMovies -CustomHooks
 
 # Features
 - Login/Sign Up
