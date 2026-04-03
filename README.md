@@ -34,6 +34,10 @@
 - Made browse page look amazing using tailwind css
 - Added Left/Right button to scroll left/right in movie list
 - usePopularMovies, useTopRatedMovies, useUpcomingMovies -CustomHooks
+- GPT search page
+- GPT search bar
+- *Multi-language feature in our app. 
+
 
 # Features
 - Login/Sign Up
